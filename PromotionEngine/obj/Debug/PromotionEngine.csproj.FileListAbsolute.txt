@@ -1,0 +1,6 @@
+C:\Users\Vishwas\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+C:\Users\Vishwas\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+C:\Users\Vishwas\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+C:\Users\Vishwas\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\Vishwas\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+C:\Users\Vishwas\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
